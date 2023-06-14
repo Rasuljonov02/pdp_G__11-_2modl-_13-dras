@@ -1,0 +1,355 @@
+:root {
+  --bg: #fff;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  color: #000;
+}
+*::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+}
+.tepa {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 20px;
+  gap: 5rem;
+  /* position: fixed; */
+}
+hr {
+  margin-top: 20px;
+}
+.a,
+.aa {
+  display: flex;
+  gap: 3rem;
+}
+body {
+  background: #e6e3e3;
+}
+a {
+  text-decoration: none;
+}
+.skrollar {
+  display: flex;
+  background-color: #92bbc3;
+  width: 1200px;
+  margin-top: 50px;
+  margin-left: 60px;
+  justify-content: space-around;
+  align-items: center;
+  height: 500px;
+  margin-right: 20px;
+  border-radius: 20px;
+  padding-left: 30px;
+}
+
+.zorr {
+  width: 600px;
+  height: 500px;
+  margin-left: 158px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+.box {
+  display: flex;
+  gap: 3rem;
+}
+.bir {
+  display: flex;
+  flex-direction: column;
+  gap: 5rem;
+}
+.taim {
+  display: flex;
+  gap: 2rem;
+}
+.boz1 {
+  display: flex;
+
+  align-items: center;
+  justify-content: space-evenly;
+}
+.boz1 .c {
+  display: flex;
+  color: #f5f5f5;
+  gap: 1rem;
+  background-color: #000;
+  padding: 8px 20px;
+  border-radius: 20px;
+}
+.taim {
+  display: flex;
+  justify-content: flex-start;
+  gap: 3rem;
+}
+.taim p {
+  background-color: #9c8b8b;
+  padding: 5px 15px;
+  border-radius: 10px;
+}
+.box {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+.q {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+.qq {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  background-color: #f5f5f5;
+  width: 150px;
+  padding: 10px;
+  border-radius: 30px;
+}
+
+.kattaimg {
+  width: 700px;
+  height: 500px;
+  background-image: url(./img/baked-chicken-wings-asian-style-tomatoes-sauce-plate\ 1.png);
+  margin-left: 60px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+.hhfhfh {
+  display: flex;
+  overflow: scroll;
+}
+.sabzavod {
+  margin-top: 100px;
+}
+.category {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.ovqatt {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 50px;
+}
+.category p {
+  padding: 8px 25px;
+  background-color: #92bbc3;
+  border-radius: 10px;
+}
+.taom {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+}
+
+.taom {
+  background: var(--bg);
+  padding: 25px;
+  border-radius: 20px;
+}
+.repise {
+  text-align: center;
+}
+.menyularuchn {
+  display: flex;
+  gap: 2rem;
+  margin-left: 200px;
+  /* justify-content: space-around; */
+}
+.menu1 {
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #aaced6 100%);
+  width: 250px;
+  height: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 10px;
+  border-radius: 10px;
+  gap: 1rem;
+  
+}
+.yurak {
+  display: flex;
+  background-image: url(./img/Mask\ Group.png);
+
+  height: 200px;
+  flex-direction: row-reverse;
+}
+.yurak img {
+  height: 50px;
+}
+.asa {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  align-items: center;
+}
+.sozlar {
+  display: flex;
+  gap: 2rem;
+  flex-direction: column;
+}
+.yarac1 {
+  background-image: url(./img/image\ 26.png);
+}
+.yarac2 {
+  background-image: url(./img/image22.png);
+}
+.yurak4 {
+  background-image: url(./img/1.png);
+}
+.yarac5 {
+  background-image: url(./img/2.png);
+}
+.kok {
+  background-image: url(./img/Ads.png);
+  background-size: cover;
+}
+.yarac7 {
+  background-image: url(./img/33.png);
+}
+.yurak8 {
+  background-image: url(./img/444.png);
+}
+.yarac9 {
+  background-image: url(./img/55.png);
+}
+
+.slommmas {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.hellloo {
+  background: linear-gradient(180deg, rgba(231, 249, 253, 0) 0%, #e7f9fd 100%);
+  border-radius: 30px;
+}
+.hello {
+  display: flex;
+  gap: 2rem;
+  flex-direction: column;
+}
+.hello a {
+  padding: 8px 20px;
+  background: #000000;
+  border-radius: 16px;
+  color: #fff;
+  width: 100px;
+}
+.spanorta {
+  text-align: center;
+}
+.instagramlar {
+  display: flex;
+
+  gap: 10px;
+}
+.instakichik {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  height: 500px;
+  justify-content: space-between;
+  padding: 10px;
+  background: #ffffff;
+  box-shadow: 0px 0.2552px 0px rgba(60, 60, 67, 0.29);
+}
+.tepalari {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  gap: 5rem;
+}
+.likee {
+  display: flex;
+  gap: 5rem;
+}
+.bb {
+  background-color: #000000;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  width: 160px;
+  justify-content: center;
+  margin-left: 40%;
+  padding: 8px 20px;
+  border-radius: 10px;
+}
+.bb img {
+  margin-left: 5px;
+}
+
+.menyularuchnn {
+  display: flex;
+  gap: 2rem;
+  margin-left: 100px;
+}
+.pas1 {
+  background-image: url(./img/pas1.png);
+}
+.pas2 {
+  background-image: url(./img/pas2.png);
+}
+.pas3 {
+  background-image: url(./img/pas3.png);
+}
+.pas4 {
+  background-image: url(./img/pas4.png);
+}
+.pas5 {
+  background-image: url(./img/pas5.png);
+}
+.pas6 {
+  background-image: url(./img/pas6.png);
+}
+.pas7 {
+  background-image: url(./img/pas7.png);
+}
+.pas7 {
+  background-image: url(./img/pas7.png);
+}
+
+.salpasroq {
+  display: flex;
+  background-color: #92bbc3;
+  width: 1250px;
+  margin-left: 100px;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+.orta {
+  display: flex;
+  gap: 1rem;
+  height: 300px;
+  flex-direction: column;
+  align-items: center;
+}
+.orta input {
+  padding: 8px 100px;
+}
+.orta a {
+  padding: 8px 20px;
+  background-color: #000;
+  color: #fff;
+  border-radius: 10px;
+}
+.teepa {
+  display: flex;
+  justify-content: space-around;
+}
+
+.ohiri {
+  display: flex;
+  justify-content: center;
+  gap: 5rem;
+  row-gap: 3rem;
+  column-gap: 3rem;
+  align-items: center;
+  margin-top: 50px;
+}

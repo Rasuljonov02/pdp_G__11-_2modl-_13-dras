@@ -1,0 +1,287 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: black;
+}
+
+.tepacdcdfuutr {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 20px;
+}
+.ortalar {
+  display: flex;
+  gap: 3rem;
+}
+.ishtimoiytarmog {
+  display: flex;
+  gap: 3rem;
+}
+a {
+  text-decoration: none;
+}
+hr {
+  margin-top: 20px;
+}
+
+.salpas {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+.chap {
+  display: flex;
+
+  height: 100px;
+  width: 800px;
+}
+.chap div {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+.chap h1 {
+  display: flex;
+  background-color: antiquewhite;
+  height: 100px;
+  width: 600px;
+}
+.j {
+  display: flex;
+  flex-direction: column;
+}
+.salpas hr {
+  height: 50px;
+}
+.it {
+  margin-left: 160px;
+  margin-top: 50px;
+}
+.ong {
+  display: flex;
+  gap: 4rem;
+}
+.ong img {
+  padding: 20px;
+  background-color: aquamarine;
+  border-radius: 50%;
+}
+.videuchun {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  margin-top: 100px;
+  height: 500px;
+}
+.box {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url(./img/Mask\ Group.png);
+}
+.boxx {
+  width: 20%;
+  padding: 20px;
+  background: #c2dade;
+  border-radius: 30px;
+}
+.boxx span {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+}
+.boxx .asaw {
+  margin-top: 150px;
+}
+.text {
+  width: 1250px;
+  margin-left: 100px;
+  margin-top: 50px;
+}
+
+.box2 {
+  width: 50%;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.box22 {
+  width: 30%;
+}
+.iocnlar {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+}
+.box2 p {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.box22 {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.box22 .chekka {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+}
+.box22 .chikki {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.chekka img {
+  border-radius: 10px;
+}
+.katta {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: self-start;
+  gap: 2rem;
+  margin-left: 60px;
+}
+.lorem {
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+.katta hr {
+  width: 60%;
+}
+.lorem h3 {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.sallpasroq {
+  display: flex;
+  background-color: aquamarine;
+  width: 1300px;
+  margin-left: 50px;
+  align-items: center;
+  /* position: absolute; */
+}
+.salong img {
+  position: relative;
+  left: 170px;
+  top: 70px;
+}
+.salorta {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 1rem;
+}
+.salorta input {
+  padding: 15px;
+  width: 400px;
+  border-radius: 10px;
+}
+.salorta .asa {
+  padding: 8px 20px;
+  background-color: rgb(19, 19, 19);
+  color: #fff;
+  border-radius: 10px;
+  position: relative;
+  bottom: 58px;
+  left: 150px;
+}
+
+.menyularuchnn {
+  display: flex;
+  gap: 2rem;
+  margin-left: 100px;
+}
+.pas1 {
+  background-image: url(../1-topshiriq/img/pas1.png);
+}
+.pas2 {
+  background-image: url(../1-topshiriq/img/pas2.png);
+}
+.pas3 {
+  background-image: url(../1-topshiriq/img/pas3.png);
+}
+.pas4 {
+  background-image: url(../1-topshiriq/img/pas4.png);
+}
+.menu1 {
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #aaced6 100%);
+  width: 250px;
+  height: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 10px;
+  border-radius: 10px;
+  gap: 0rem;
+}
+.sozlar {
+  display: flex;
+  gap: 2rem;
+  flex-direction: column;
+}
+.asa {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  align-items: center;
+}
+.salpasroq {
+  display: flex;
+  background-color: #92bbc3;
+  width: 1250px;
+  margin-left: 100px;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+.orta {
+  display: flex;
+  gap: 1rem;
+  height: 300px;
+  flex-direction: column;
+  align-items: center;
+}
+.orta input {
+  padding: 8px 100px;
+}
+.orta a {
+  padding: 8px 20px;
+  background-color: #000;
+  color: #fff;
+  border-radius: 10px;
+}
+.teepa {
+  display: flex;
+  justify-content: space-around;
+}
+
+.ohiri {
+  display: flex;
+  justify-content: center;
+  gap: 5rem;
+  row-gap: 3rem;
+  column-gap: 3rem;
+  align-items: center;
+  margin-top: 50px;
+}
+.yurak {
+  display: flex;
+  /* background-image: url(./img/Mask\ Group.png); */
+
+  height: 200px;
+  flex-direction: row-reverse;
+}
+.yurak img {
+  height: 50px;
+}
